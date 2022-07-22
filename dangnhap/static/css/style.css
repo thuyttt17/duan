@@ -1,0 +1,6 @@
+body{
+    background-color: aquamarine;
+    background-image: url(../img/images.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
